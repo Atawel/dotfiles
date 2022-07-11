@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = raphaelcommere@gmail.com
+	name = Raphael Commere
